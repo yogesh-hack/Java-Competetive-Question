@@ -1,4 +1,4 @@
-# DATA SRUCTURE AND ALGORITHMS IN JAVA
+# DATA STRUCTURE AND ALGORITHMS IN JAVA
 
 ## Java Introduction
   ✅Java Hello World
