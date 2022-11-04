@@ -1,3 +1,4 @@
+import java.util.ArrayList; // import the ArrayList class
 class Evenodd {
   static int count = 0;
   static int even =0;
@@ -20,6 +21,9 @@ class Evenodd {
   }
   public static void main(String[] args) {
     int num = 31593;
-    System.out.println("Even placed sum is : " + Digits(num));
+    System.out.println("[Even , Odd ] : " + Digits(num));
   }
 }
+
+// +++++++++++++++++++++++++++++  OUTPUT ++++++++++++++++++++++++++++++
+// [Even , Odd ] : [10, 11]
